@@ -1,0 +1,23 @@
+.home::before {
+	display: block;
+	content: '';
+	height: 90px;
+}
+.home {
+	background-color: #fff;
+}
+.table tbody tr td img {
+	height: 40px;
+	width: 40px;
+	object-fit: cover;
+	border-radius: 50%;
+	margin-right: 5px;
+}
+.modal-header img {
+	height: 50px;
+	width: 50px;
+	object-fit: cover;
+	border-radius: 3px;
+	border: 2px solid #000;
+	margin-right: 10px;
+}
